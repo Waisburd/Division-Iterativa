@@ -1,0 +1,11 @@
+/home/waisburd/Lagash/division-iterativa/bin/Debug/netcoreapp2.2/division-iterativa.deps.json
+/home/waisburd/Lagash/division-iterativa/bin/Debug/netcoreapp2.2/division-iterativa.runtimeconfig.json
+/home/waisburd/Lagash/division-iterativa/bin/Debug/netcoreapp2.2/division-iterativa.runtimeconfig.dev.json
+/home/waisburd/Lagash/division-iterativa/bin/Debug/netcoreapp2.2/division-iterativa.dll
+/home/waisburd/Lagash/division-iterativa/bin/Debug/netcoreapp2.2/division-iterativa.pdb
+/home/waisburd/Lagash/division-iterativa/obj/Debug/netcoreapp2.2/division-iterativa.csprojAssemblyReference.cache
+/home/waisburd/Lagash/division-iterativa/obj/Debug/netcoreapp2.2/division-iterativa.csproj.CoreCompileInputs.cache
+/home/waisburd/Lagash/division-iterativa/obj/Debug/netcoreapp2.2/division-iterativa.AssemblyInfoInputs.cache
+/home/waisburd/Lagash/division-iterativa/obj/Debug/netcoreapp2.2/division-iterativa.AssemblyInfo.cs
+/home/waisburd/Lagash/division-iterativa/obj/Debug/netcoreapp2.2/division-iterativa.dll
+/home/waisburd/Lagash/division-iterativa/obj/Debug/netcoreapp2.2/division-iterativa.pdb
