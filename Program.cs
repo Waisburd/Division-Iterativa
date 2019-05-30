@@ -8,13 +8,12 @@ namespace division_iterativa
         {
             int dividendo, divisor;
 
-            pedirParametros(out dividendo, out divisor);
-            
             try
             {
+                pedirParametros(out dividendo, out divisor);
                 Console.WriteLine(dividendo + " / " + divisor + " = " + dividir(dividendo, divisor));
             }
-            catch (DivideByZeroException e)
+            catch (Exception e)
             {
                 Console.WriteLine(e.Message);
             }
